@@ -2,7 +2,7 @@
 When updating the CS_project.ipynb file, please follow the following steps
 ## Project main progress related file
 * Add/Update files to main branch
-* The file in the main branch are jupyter notebook showing the current progress of the project.
+* Files in the main branch are jupyter notebooks showing the current progress of the project.
 
 
 ## Individual progress 
