@@ -1,14 +1,11 @@
 # CS412_project
 When updating the CS_project.ipynb file, please follow the following steps
-# Data processing
-## Add/Update files to main branch
-* simply update the file by manually add/upload file (remember to add commit note),
-and it will automatically overwrite the original file and track the commit changes to the file.
+## Project main progress related file
+* Add/Update files to main branch
+* The file in the main branch are jupyter notebook showing the current progress of the project.
 
 
-# Model
-## Add/Update files to your branch
-* create a new branch manually for your name (ex. Cindy).
-* simply update the file by manually add/upload file (remember to add commit note),
-and it will automatically overwrite the original file and track the commit changes to the file.
-* we will later merge the branches to collect all files
+## Individual progress 
+* Add/Update files to your branch
+* The branch name are the depository of your work.
+* We will later merge the branches to collect all files
